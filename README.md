@@ -82,4 +82,4 @@ For verification, please refer to the author's official public key listed on the
 https://github.com/NatsuseShiroi/natsuse_shiroi/blob/main/natsuse_shiroi_pgp_pqc_publickey.asc
 
 ## Download PDF
-./ABioethicalManifestoForHuman-DerivedNeuralComplexesVer1.000.pdf
+https://./ABioethicalManifestoForHuman-DerivedNeuralComplexesVer1.000.pdf
