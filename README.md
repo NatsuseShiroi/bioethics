@@ -73,6 +73,9 @@ This charter is written with the intention of applying appropriate regulations a
 6. この憲章は確認である：
    本憲章は、「確認する」という言葉を使い、脳オルガノイドはこの憲章の有無にかかわらず、生来的に「福祉を受けるべき存在」であることを示している。
 
+# FAQ
+https://natsuseshiroi.github.io/bioethics/FAQ.html
+
 ## Copyright (c) 2026 Natsuse Shiroi
 This work is licensed under a Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0).
 https://creativecommons.org/licenses/by-nd/4.0/
