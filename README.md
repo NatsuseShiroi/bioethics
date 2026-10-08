@@ -1,3 +1,5 @@
+This text is a old version as Ver.1.000.  New version(Ver.1.003) Released > https://natsuseshiroi.github.io/bioethics/index2.html
+
 A Bioethical Manifesto for Human-Derived Neural Complexes
 
 # Draft of “Charter for the Welfare of Brain Organoids”
