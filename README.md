@@ -76,6 +76,9 @@ This charter is written with the intention of applying appropriate regulations a
 # FAQ
 https://natsuseshiroi.github.io/bioethics/FAQ.html
 
+# ZENODO
+https://zenodo.org/records/23222689
+
 ## Copyright (c) 2026 Natsuse Shiroi
 This work is licensed under a Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0).
 https://creativecommons.org/licenses/by-nd/4.0/
